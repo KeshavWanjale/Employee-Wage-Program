@@ -1,16 +1,3 @@
-  GNU nano 8.1                                        emp.py                                         Modified
-
-
-
-
-
-
-
-
-
-
-
-
 import random
 def check_attendence():
     attendence = random.randint(0,2)
